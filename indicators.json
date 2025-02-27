@@ -2118,4 +2118,20 @@
           "status": "notstarted"
         }]
     }
+  },
+  {
+    "goal": {
+      "id": "Indicator_3",
+      "title": "global_goals.Indicator_3-title",
+      "indicators": [
+        
+        {
+          "id": "Indicator_3-1-2",
+          "title": "global_indicators.Indicator_3-1-2-title",
+          "description": "",
+          "keywords": "",
+          "href": "/Group-1-Site/Indicator_3-1-2/",
+          "status": "complete"
+        }]
+    }
   }]
